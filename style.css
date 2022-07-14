@@ -1,0 +1,94 @@
+.color-bg-dark {
+    background-color: rgb(46, 46, 46);
+    color: rgb(224, 224, 224);
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.input-height {
+    height: 40px;
+}
+
+.textArea-height {
+    height: 120px;
+}
+
+.monitor-container {
+    width: 800px;
+    height: 350px;
+    border: 2px solid white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.left-container {
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.monitor-content {
+    width: 100%;
+    height: 25px;
+    font-size: 20px;
+    color: violet;
+}
+
+.monitor-content2 {
+    width: 100%;
+    height: 25px;
+    font-size: 18px;
+    padding-left: 40px;
+    color: rgb(230, 230, 230);
+}
+
+.monitor-content3 {
+    width: 100%;
+    height: 25px;
+}
+
+.monitor-consigna {
+    color: rgb(230, 230, 230);
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    padding-left: 40px;
+}
+
+.monitor-consigna2 {
+    color: rgb(47, 216, 1);
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+}
+
+.monitor-rcontent {
+    color: rgb(47, 216, 1);
+    width: 100%;
+    height: 25px;
+    font-size: 18px;
+}
+
+.right-container {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.monitor-header {
+    color: rgb(200, 200, 200);
+    width: 100%;
+    height: 10%;
+}
+
+.monitor-body {
+    width: 100%;
+    height: 90%;
+    display: flex;
+}
